@@ -3,11 +3,11 @@ CPres
 
 Presentation Software built on node-webkit, Zurb Foundation 5 and reveal.js being developed in my spare time for my own uses. Microsoft Powerpoint has fallen short of my needs for years and LibreOffice Impress no longer meets my requirements, either. After looking around in attempts to find a presentation program that supports multi-window and multi-monitors I've decided to make my own. Found myself in need of driving several displays 2-5 over the years. With each display showing unique content, sometimes all the same content and some presentations require a every changing mix of unique and mirrored content. The horrid workarounds I've come up with over the years have inspired me to make a tool that supports what I need natively without the worrying about if my workarounds will work on game day. Feel free to use it yourself, copy, modify, contribute or not. :)
 
-* [Status](#Current-Status)
-* [Contributing](#Contributing)
-* [Goals](#Goals)
-* [Window Types](#Window-Types)
-* [CPres Format](#Cpres-Format)
+* [Status](#current-status)
+* [Contributing](#contributing)
+* [Goals](#goals)
+* [Window Types](#window-types)
+* [CPres Format](#cpres-format)
 
 ## Contributing
 Are you a looking to contribute some code? I'd love the help!
